@@ -3,8 +3,8 @@
 
   /* colors */
   --oui-color-primary: 0 0 0;
-  --oui-color-primary-light: 2 207 91;
-  --oui-color-primary-darken: 212 114 2;
+  --oui-color-primary-light: 207 94 2;
+  --oui-color-primary-darken: 2 212 37;
   --oui-color-primary-contrast: 210 97 4;
 
   --oui-color-link: 231 159 4;
@@ -64,7 +64,7 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 2 207 91;
+  --oui-gradient-brand-start: 207 94 2;
   --oui-gradient-brand-end: 0 0 0;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
