@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "UNLEASH YOUR TECH TODAY! Quantum Edge DAO: Your Premier Choice for Cutting-Edge Digital Services & More.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/+VbB2K9mRvMpkOGVh",
