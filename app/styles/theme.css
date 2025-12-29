@@ -3,7 +3,7 @@
   --oui-font-size-base: 15px;
 
   /* colors */
-  --oui-color-primary: 234 139 6;
+  --oui-color-primary: 139 196 94;
   --oui-color-primary-light: 156 220 106;
   --oui-color-primary-darken: 110 160 70;
   --oui-color-primary-contrast: 0 0 0;
@@ -97,11 +97,4 @@
 html, body {
   font-family: 'Roboto', sans-serif !important;
   font-size: 15px !important;
-}
-
-.orderly-app-container,
-.orderly-app-container *,
-.orderly-app-container *::before,
-.orderly-app-container *::after {
-  font-family: 'Roboto', sans-serif !important;
 }
